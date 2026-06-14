@@ -38,3 +38,5 @@ After split-training the dataset (80% Train, 20% Test) and scaling the feature p
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+ 2.  pip install numpy pandas scikit-learn
+ 3.  python diabetes_svm.py
